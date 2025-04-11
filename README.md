@@ -46,3 +46,7 @@ where `requirements.txt` includes:
 ## Results
 - Found that fraud cases are highly imbalanced, with very few fraudulent transactions.
 - The best-performing model effectively identifies fraud with high precision and recall.
+
+## Contact Details 
+Phone : 9096506345
+Email : rushikeshsangamnere4561@gmail.com
