@@ -196,6 +196,8 @@ jupyter notebook Credit_Card_Fraud_Detection.ipynb
 ## 👨‍💻 Author
 
 **Rushikesh Sangamnere**
+**Email: rushikeshsangamnere4561@gmail.com**
+**Phone: +91 9096506345**
 
 
 ---
